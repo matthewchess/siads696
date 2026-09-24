@@ -4,3 +4,4 @@ matplotlib
 ipykernel
 requests
 pre-commit
+nbstripout
