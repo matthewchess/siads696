@@ -5,3 +5,4 @@ ipykernel
 requests
 pre-commit
 nbstripout
+openpyxl
