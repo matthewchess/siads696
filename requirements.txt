@@ -6,3 +6,5 @@ requests
 pre-commit
 nbstripout
 openpyxl
+scikit-learn
+haversine
