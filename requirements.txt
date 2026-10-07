@@ -8,3 +8,4 @@ nbstripout
 openpyxl
 scikit-learn
 geopy
+geocoder
