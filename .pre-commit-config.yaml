@@ -3,3 +3,4 @@ repos:
     rev: 0.9.1
     hooks:
       - id: nbstripout
+        args: ["--extra-keys", "metadata.kernelspec.display_name metadata.language_info.version"]
