@@ -1,0 +1,41 @@
+﻿Energy Source Code,Energy Source 1
+ANT,Anthracite Coal 
+BIT,Bituminous Coal
+LIG,Lignite Coal
+SGC,Coal-Derived Synthesis Gas
+SUB,Subbituminous Coal
+WC,"Waste/Other Coal (incl. anthracite culm, bituminous gob, fine coal, lignite waste, waste coal)"
+RC,Refined Coal
+DFO,"Distillate Fuel Oil (including diesel, No. 1, No. 2, and No. 4 fuel oils)"
+JF,Jet Fuel
+KER,Kerosene
+PC,Petroleum Coke
+PG,Gaseous Propane
+RFO,"Residual Fuel Oil (incl. Nos. 5 & 6 fuel oils, and bunker C fuel oil)"
+SGP,Synthesis Gas from Petroleum Coke
+WO,"Waste/Other Oil (including crude oil, liquid butane, liquid propane, naphtha, oil waste, re-refined motor oil, sludge oil, tar oil, or other petroleum-based liquid wastes)"
+BFG,Blast Furnace Gas
+NG,Natural Gas
+H2,Hydrogen
+OG,Other Gas (specify in SCHEDULE 7)
+AB,Agricultural By-Products
+MSW,Municipal Solid Waste
+OBS,Other Biomass Solids (specify in SCHEDULE 7)
+WDS,"Wood/Wood Waste Solids (incl. paper pellets, railroad ties, utility poles, wood chips, bark, and wood waste solids)"
+OBL,Other Biomass Liquids (specify in SCHEDULE 7)
+SLW,Sludge Waste
+BLQ,Black Liquor
+WDL,"Wood Waste Liquids excluding Black Liquor (including red liquor, sludge wood, spent sulfite liquor, and other wood-based liquids)"
+LFG,Landfill Gas
+OBG,"Other Biomass Gas (including digester gas, methane, and other biomass gases; specify in SCHEDULE 7)"
+SUN,Solar
+WND,Wind
+GEO,Geothermal
+WAT,"Water at a Conventional Hydroelectric Turbine, and water used in Wave Buoy Hydrokinetic Technology, Current Hydrokinetic Technology, and Tidal Hydrokinetic Technology"
+WAT,Pumping Energy for Reversible (Pumped Storage) Hydroelectric Turbine
+NUC,"Nuclear (including Uranium, Plutonium, and Thorium)"
+PUR,Purchased Steam
+WH,"Waste heat not directly attributed to a fuel source (WH should only be reported when the fuel source is undetermined, and for combined cycle steam turbines that do not have supplemental firing.)"
+TDF,Tire-derived Fuels
+MWH,Electricity used for energy storage
+OTH,Specify in SCHEDULE 7
